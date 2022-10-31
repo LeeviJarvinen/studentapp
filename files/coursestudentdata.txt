@@ -1,0 +1,2 @@
+0---Joona Ruusu---1---Arttu Pulkkinen---0---Matematiikka---Janne Isotalo---B303
+0---Joona Ruusu---1---Arttu Pulkkinen---1---Fysiikka---Janne Isotalo---B201
